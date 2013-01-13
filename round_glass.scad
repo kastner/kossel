@@ -3,8 +3,8 @@ include <configuration.scad>;
 glass_diameter = 170; // mm
 glass_radius = glass_diameter/2;
 glass_thickness = 2.9; // mm
-triangle_openbeam = 300; // mm length
-clip_width = 20; // mm
+triangle_openbeam = 360; // mm length
+clip_width = 31.75; // mm
 
 // Intersection points between inside edges of triangle OpenBeam.
 triangle_inside = triangle_openbeam + 45;
