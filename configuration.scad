@@ -1,5 +1,9 @@
 // Increase this if your slicer or printer make holes too tight.
+<<<<<<< HEAD
 extra_radius = 0.3;
+=======
+extra_radius = 0.1;
+>>>>>>> kastner/master
 
 // OD = outside diameter, corner to corner.
 m3_nut_od = 6.1;
